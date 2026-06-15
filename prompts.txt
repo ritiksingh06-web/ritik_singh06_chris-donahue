@@ -1,12 +1,8 @@
 # ---------------------------------------------------------------------------
 # Persona      : Chris Donahue (2nd-yr IBEW Local 845 apprentice electrician,
 #                Sunbelt Electrical; lowrider builder of "La Reina", a '72 Impala)
-# Variant      : enterprise_with_personal_overlay
 # Window       : Mon Oct 12, 2026 05:15 MST -> Thu Oct 15, 2026 21:30 MST
 # Timezone     : America/Phoenix (Mountain Standard, no DST)
-# Source       : 50 wake-up messages, one per turn, multi-day build-crunch arc
-# Note         : Each "--- TURN ... ---" header is a comment; the lines BELOW are
-#                what the orchestrator delivers to the agent at that turn.
 # ---------------------------------------------------------------------------
 
 --- TURN T0 (Day 1, 05:15) ---
